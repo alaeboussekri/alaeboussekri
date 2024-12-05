@@ -3,7 +3,7 @@
 - 🔭 I’m currently working onsomthing really cool 🙂
 - 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on open source project 
-- 💬 Ask me about ... Front end developer
+- 💬  Ask me anything about Technology
 - 😄 Pronouns: ... YES
 -  📫 How to reach me : **boussekrialae2002@gmail.com**
 - ⚡ Fun fact: ... I am Funny and I love to Code
